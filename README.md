@@ -1,0 +1,1 @@
+Descrever o funcionamento de uma furadeira múltipla pneumática que é composta por um pedal pneumatico, sensor fim de curso e motor, seguindo o modelo de autômatos finitos determinísticos (AFD) e usando a bilioteca automathon presente no Python para modelar o problema.
